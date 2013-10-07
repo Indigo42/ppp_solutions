@@ -1,7 +1,10 @@
 /*
-    Description:        This program is for Chapter 4, Exercise 4 of
+    Description:        This is a game that tries to guess the user's number.
+                        It is a solution for Chapter 4, Exercise 4 of
                         "Programming: Principles and Practice Using C++" by
                         Bjarne Stroustrup.
+                        
+    Algorithms:         guess_number() uses a binary search algorithm.
 */
 
 #include <iostream>
